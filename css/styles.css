@@ -1,0 +1,127 @@
+#title {
+    text-align: center;
+ 
+
+}
+
+.deep-colored {
+    background-color: blue;
+    color: white;
+}
+
+.light-colored {
+    background-color: lightblue;
+
+}
+
+
+    /* navbar */
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar-brand {
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 2.0rem;
+    font-weight: bold;
+    color: white;
+
+}
+.nav-link {
+    color: white;
+}
+
+
+
+
+.container-fluid {
+    padding: 3% 15% 7%;
+    color: white;
+}
+
+
+
+.testimonial-img {
+    padding: 3% 7%;
+    
+    text-align: center;
+    
+}
+.testimonial-image {
+    margin: 10px 10px 20px;
+}
+
+
+
+
+
+.connect {
+    padding: 12% 5% 7% 7%;
+    text-align: left;
+
+}
+.safe {
+    padding: 6% 0% ;
+}
+
+
+
+/* testimonial section */
+#testimonial-carousel {
+    padding: 2% 15%;
+    text-align: center;
+}
+#testimonials {
+    padding: 2% 2%;
+
+    text-align: center;
+}
+.carousel-inner {
+    border-radius: 25px;
+    padding: 20px;
+    
+    background-color: rgb(62, 102, 233);
+}
+
+/* feature */
+.feature-text {
+    padding: 7% 15%;
+    text-align: left;
+}
+
+.feature {
+    padding: 3% 0%;
+
+}
+
+
+
+
+/* footer */
+.bottom-container {
+    background-color: #02111B;
+    padding: 3% 12%;
+    color: white;
+    text-align: left;
+    
+}
+.footer-text{
+    text-align: left;
+
+}
+
+.social-icon {
+    margin: 15px 7px;
+}
+.last-section {
+    padding: 3% 0% 0%;
+    width: 100%;
+        text-align: center;
+       
+        margin: 10px 0 20px;
+}
